@@ -2,7 +2,7 @@
 
 
 
-#📚 Learning & Interested
+## 📚 Learning & Interested
 
 <img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" weight="70" height="70" /><img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-0-1.png" weight="70" height="70" /><img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" weight="70" height="70" />
 
@@ -10,7 +10,7 @@
 ## 📫 How to Reach Me
 
 
-<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" weight="70" height="70" />(https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
+<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" weight="70" height="70" />https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/
 
 
 
