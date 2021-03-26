@@ -10,7 +10,7 @@
 ## 📫 How to Reach Me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
+[![Linkedin Badge](https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
 
 
 
