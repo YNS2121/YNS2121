@@ -10,7 +10,7 @@
 ## 📫 How to Reach Me
 
 
-[<img src="https://www.troya-eng.com/wp-content/uploads/2019/04/linkedin.png" width="70" height="70" />](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
+[<img src="https://www.troya-eng.com/wp-content/uploads/2019/04/linkedin.png" width="50" height="50" />](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
 [<img src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" width="50" height="50" />](]https://twitter.com/YarenNurSolmaz1)
 
 
