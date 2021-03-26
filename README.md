@@ -3,7 +3,7 @@
 
 
 
-![](https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png)
+![](https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png |weight=100)
 
 <!--
 **YNS2121/YNS2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
