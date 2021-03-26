@@ -14,6 +14,10 @@
 [<img src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" width="50" height="50" />](]https://twitter.com/YarenNurSolmaz1)
 
 
+<a href="https://github.com/YNS2121"center" src="https://github-readme-stats.vercel.app/api?username=YarenNurSolmaz&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
+<a href="https://github.com/ahmet-cetinkaya%22%3E<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarenNurSolmaz&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+
+
 
 
 
