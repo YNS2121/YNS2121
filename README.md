@@ -14,7 +14,7 @@
 
 ## 📫 How to Reach Me
 
-[<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="40" height="40" />](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
+[<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
 [<img src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" width="50" height="50" />](]https://twitter.com/YarenNurSolmaz1)
 
 
