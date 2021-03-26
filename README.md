@@ -11,7 +11,7 @@
 
 
 [<img src="https://www.troya-eng.com/wp-content/uploads/2019/04/linkedin.png" width="70" height="70" />](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
-[<img src="https://img2.pngindir.com/20171220/arw/twitter-logo-png-5a3a185138f284.88858568151375675323333199.jpg" width="70" height="70" />](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
+[<img src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo-300x300.png" width="70" height="70" />](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
 
 
 
