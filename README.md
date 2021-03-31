@@ -12,7 +12,7 @@
 <a href="https://github.com/YNS2121"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yns2121&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a><a href="https://github.com/YNS2121"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yns2121&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
 
-## 📫 How to Reach Me
+<h2>📫 How to Reach Me</h2>
 
 [<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
 [<img src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" width="50" height="50" />](]https://twitter.com/YarenNurSolmaz1)
