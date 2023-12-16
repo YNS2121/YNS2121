@@ -4,7 +4,7 @@
 
 - 🎮 Passionate about game development, especially using Unity and C#.
 - 🌱 Currently enhancing my skills in Unity and exploring advanced C# concepts.
-- 💡 Eager to create engaging and innovative games that players love.
+- 💡 Eager to create engaging and innovative games that players love. (Did you played my games?👉 [itch.io](https://yns21.itch.io/) )
 - 👯 Looking to collaborate on exciting Unity game projects.
 - 🎓 Always learning new techniques and trends in the gaming industry.
 - 💬 Feel free to ask me about game development, Unity, and C#.
