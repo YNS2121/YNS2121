@@ -1,38 +1,25 @@
-### HELLO WORLD 🤩
+# Hello World, I'm Yaren Nur 🌟
+
+## 💃About Me
+
+- 🎮 Passionate about game development, especially using Unity and C#.
+- 🌱 Currently enhancing my skills in Unity and exploring advanced C# concepts.
+- 💡 Eager to create engaging and innovative games that players love.
+- 👯 Looking to collaborate on exciting Unity game projects.
+- 🎓 Always learning new techniques and trends in the gaming industry.
+- 💬 Feel free to ask me about game development, Unity, and C#.
+- 📫 Reach out to me at: [Email](mailto:slmzyrn.27@gmail.com) [LinkedIn](https://www.linkedin.com/in/yaren-nur-solmaz/) or [X](https://twitter.com/YarenNurSolmaz1)
 
 
 
-## 📚 Learning & Interested
-
-<img src="https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png" weight="70" height="70" /><img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-0-1.png" weight="70" height="70" /><img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" weight="70" height="70" /><img src="[https://i.pinimg.com/originals/32/57/31/325731898416cd08042a1c4e8e884506.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FUnity3D%2Fcomments%2Fpzk6jd%2Fnew_unity_logo_found_in_the_latest_20212_beta%2F&psig=AOvVaw2CchDRkoiGPiJqg5XLrjJH&ust=1700040550960000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjOrduWw4IDFQAAAAAdAAAAABAE)" weight="70" height="70" />
-
-
-
-## 💻 Yaren Nur Solmaz's Infos
+## 💻Yaren Nur Solmaz's Infos
 <a href="https://github.com/YNS2121"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yns2121&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a><a href="https://github.com/YNS2121"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yns2121&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
+## Languages and Tools
 
-
-<h2>📫 How to Reach Me</h2>
-
-[<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/yaren-nur-solmaz-707b481ba/)
-[<img src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" width="50" height="50" />](]https://twitter.com/YarenNurSolmaz1)
+<img src="https://apps.pardus.org.tr/files/pngicons/unityhub.png" alt="Unity" width="50" height="50"/><img src="https://miro.medium.com/v2/resize:fit:300/1*A_Hg7NPIoARg0RmdsVapqg.png" alt="C#" width="50" height="50"/><img src="https://www.portakalyazilim.com.tr/images/uploads/Anasayfa/java2.png" alt="Java" width="50" height="50"/><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/snap-icon.png" alt="Rider" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="50" height="50"/><img src="https://developer.valvesoftware.com/w/images/thumb/1/1c/Blender-512px.png/256px-Blender-512px.png" alt="Blender" width="50" height="50"/>
 
 
 
 
 
-<!--
-**YNS2121/YNS2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
